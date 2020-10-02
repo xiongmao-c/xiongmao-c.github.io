@@ -2,10 +2,10 @@
 title: 你好
 url: python1-1
 tags:
-  - 标签2
+  - 标签1
   - 标签1
 categories:
-  - 分类2
+  - 分类1
   - 分类1
 date: 2020-10-1 12:30:01
 ---
