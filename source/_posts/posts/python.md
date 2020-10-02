@@ -1,0 +1,3 @@
+# python 基础
+    print(“python”)  
+![python](https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=python&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=1724666427,1621648695&os=2715016652,3585137010&simid=4108821406,579627295&pn=1&rn=1&di=21670&ln=1533&fr=&fmq=1601663883219_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fshp.qpic.cn%2Fqqvideo_ori%2F0%2Fg0857o2eaih_496_280%2F0&rpstart=0&rpnum=0&adpicid=0&force=undefined)
