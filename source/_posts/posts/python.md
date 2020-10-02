@@ -3,8 +3,6 @@ title: 你好
 url: python1-1
 tags:
   - 标签1
-categories:
-  - 分类2
 date: 2020-10-1 12:30:01
 ---
 
