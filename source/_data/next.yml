@@ -328,8 +328,7 @@ links_settings:
   layout: inline
 
 links:
-  Ahaochan: http://blog.ahao.moe
-
+  Ahaochan: http://baidu.com
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
 toc:
