@@ -29,7 +29,7 @@ before_install:
   # 将 GitHub Token 替换到 fluid.yml 中
   - sed -i "s/REPO_TOKEN/${REPO_TOKEN}/" source/_data/fluid.yml
   # fluid主题下载
-  - git clone https://github.com/probberechts/hexo-theme-fluid.git themes/fluid
+  - git clone https://github.com/fluid-dev/hexo-theme-fluid.git themes/fluid
   - cd themes/fluid && git checkout v1.8.3 && cd -
   - yes | cp -rf source/_data/fluid.yml themes/fluid/_config.yml
 install:
